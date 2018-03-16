@@ -1,6 +1,8 @@
 # Spatial Pyramid Matching Scene Recognition
 Trained a classifier to recognize 3000 images with 15 categories using Bag of Features model and Spatial Pyramid Matching algorithm. Improved accuracy from ~50% to ~70%.
 
+![dataset](https://user-images.githubusercontent.com/20756728/37504085-8b4c504a-28b2-11e8-8dd3-0a621808690e.png)
+
 # Install dependencies
 All common python packages are needed (Numpy, Matplotlib,...). We also need OpenCV in this project.
 ```
